@@ -1,0 +1,16 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cards {
+  display: flex;
+  box-shadow: 0 0 10px rgba(39, 39, 39, 0.267);
+  margin: 1rem;
+  padding: 1rem;
+}
+.input-field {
+  display: flex;
+}
+.card-content {
+  padding: 1rem;
+}
